@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dynamomanal
-- 🌱 I’m currently learning Flutter & Typescript
+- 🌱 I’m currently learning and working on Flutter & Typescript
 - 💞️ I’m looking to collaborate on relatable projects
 - 📫 You can reach me through my LinkedIn Profile
 
