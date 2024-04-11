@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dynamomanal
-- 🌱 I’m currently focused into various TechStacks that icludes Flutter,Next.JS,Fast API(Python)
+- 🌱 I’m currently focused into various TechStacks that includes Flutter,Next.JS,Fast API(Python)
 - 💞️ I’m looking to collaborate on relatable projects
 - 📫 You can reach me through my LinkedIn Profile
 
